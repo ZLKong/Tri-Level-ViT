@@ -3,7 +3,7 @@
 arXiv https://arxiv.org/abs/2211.10801
 
 <p align="center">
-  <img src="images/eformerv2.png" width=70%> <br>
+  <img src="./plot_time_acc_table.png" width=70%> <br>
   Comparison of different models with various accuracy-training time trade-off..
 </p>
 
