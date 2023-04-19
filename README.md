@@ -1,4 +1,6 @@
-# Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training (AAAI 2023)
+# Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training 
+
+This repository contains PyTorch training code for the AAAI 2023 paper.
 
 arXiv https://arxiv.org/abs/2211.10801
 
